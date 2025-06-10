@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/145bab27-a617-4ab9-9180-5dc521de71bc
 
 
 
-#Personal Finance Dashboard
+# Personal Finance Dashboard
 A web-based application for analyzing financial transactions, featuring interactive visualizations, budget tracking, and a chatbot for financial insights. Built during my fourth-year Semester 2, this project demonstrates robust data validation and user-friendly financial analysis.
 ## Overview
 The Personal Finance Dashboard allows users to upload CSV files or manually input financial transactions to visualize spending patterns, track budgets, and detect anomalies. Powered by a Gradio interface, Plotly charts, and an Ollama-based chatbot, it provides an intuitive platform for personal finance management.
